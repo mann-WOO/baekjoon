@@ -1,3 +1,5 @@
+# Kurskal 시간초과
+
 def find_set(x):
     while x != p[x]:
         x = p[x]

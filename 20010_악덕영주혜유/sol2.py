@@ -1,3 +1,5 @@
+# Prim 어떻게?
+
 N, K = map(int, input().split())
 adj_matrix = [[0 for _ in range(N)] for _ in range(N)]
 for _ in range(K):
